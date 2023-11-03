@@ -7,9 +7,9 @@ the project.
 To run the program:
 * Download the project
 * Open terminal and enter following commands:
-* cd /home/user/path_to_the_project/Flask_landingpage_project
-* python3 app.py runserver
+* cd /home/user/path_to_the_project/Flask_landingpage_project # Open the folder of the project on your computer
+* python3 app.py runserver # Run the python command to start the server
 
   Now the app is running.
-  You can open the browser and input the address of the page:
-  localhost:5000 or http://127.0.0.1:5000/
+  You can now open the browser and type the address of the page:
+  http://localhost:5000 or http://127.0.0.1:5000/
