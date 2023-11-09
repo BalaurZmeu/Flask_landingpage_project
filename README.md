@@ -11,6 +11,6 @@ To run the program:
 * `python3 app.py runserver`       (Run the python command to start the server)
 
   Now the app is running.
-  You can now open the browser and type the address of the page:
+  You can open the browser and type the address of the page:
 
   http://localhost:5000 or http://127.0.0.1:5000/
