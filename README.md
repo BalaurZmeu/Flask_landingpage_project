@@ -15,4 +15,4 @@ To run the program:
 
   http://localhost:5000 or http://127.0.0.1:5000/
 
-The webpage displays a simple subscription form. When the visitor of the page enters information in the *'Name'* and *'Email'* fields, providing their name and email, and clicks the 'Subscribe' button, the entered data is saved in the `user_data.csv` file. Subsequently, the *'Thank you'* page is displayed.
+The webpage displays a simple subscription form. When the visitor of the page enters information in the **'Name'** and **'Email'** fields, providing their name and email, and clicks the **'Subscribe'** button, the entered data is saved in the `user_data.csv` file. Subsequently, the **'Thank you'** page is displayed.
