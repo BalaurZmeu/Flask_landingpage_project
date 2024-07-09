@@ -5,7 +5,7 @@ import csv
 # Create a Flask app
 app = Flask(__name__)
 
-csvfile = './user_data.csv'
+csvfile = 'user_data.csv'
 
 def is_valid_email(email):
     pattern = r'^[\w\.-]+@[\w\.-]+\.\w+$'
